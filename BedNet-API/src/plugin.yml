@@ -1,0 +1,7 @@
+name: API
+version: 1.0
+author: LPmitFelix
+main: de.ffliss.bednetapi.BedNetAPI
+commands:
+  serverinfo:
+  coins:

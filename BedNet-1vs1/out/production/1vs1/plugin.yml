@@ -1,0 +1,7 @@
+name: 1vs1
+version: 1.0
+author: LPmitFelix
+main: de.ffliss.bednet.oneVSone.Main
+depend: [API]
+commands:
+  stats:

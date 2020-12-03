@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Bednet-API">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Bednet-API.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
